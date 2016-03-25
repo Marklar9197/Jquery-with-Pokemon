@@ -1,10 +1,6 @@
 # Pokemon jQuery Battle Game!
 
-![PIKA](http://49.media.tumblr.com/f151c12a0af53d864ebb413101f64e32/tumblr_nqm3q02d0y1tros9go1_500.gif)
 
-### Instructions
-
-- the format of the arrays is: ['name','image path',health]
 
 ```javascript
 	var pokemon = [
@@ -49,21 +45,5 @@
 -You do not have to have the game restart automatically. 
 
 
-### Example Videos:
-
--There are two example videos in the folder. Pay careful attenton to the text being displayed and what elements are changing. 
-
-
-### Getting Started: 
-
--You won't need to edit the pokemon.html file. You will need to look at it to get IDs and class names of elements.
-
--You won't need to edit the pokemon.css file. 
-
--Use the pokemon.js file provided to get started. (or don't)
-
-### Bonus:
-
--Add animations to the game. Start by making the pokemon wiggle left and right when damaged and tip over when defeated! Like so: http://gfycat.com/InsignificantExaltedBlowfish
 
 -Explore adding a 'damage multiplier' to the Pokemon objects. Use this to have stronger/weaker pokemon do more/less damage. 
